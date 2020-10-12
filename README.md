@@ -10,7 +10,7 @@ Unfortunately and at the same time to the benefit of the audience, I wasn't allo
 
 # Table of Contents
 
-1. Tutorial Structure and Questions we will work through
+1. Tutorial Structure
 2. Learning Outcomes
 3. The Why behind this tutorial
 4. What this tutorial is not about
@@ -18,17 +18,26 @@ Unfortunately and at the same time to the benefit of the audience, I wasn't allo
 6. Data
 7. Notebooks
     - 00 Getting the Data
-    - 01 Cleaning it
-    - 02 Reshaping it
-    - 03 Analyzing it
-    - 04 Predicting from it
-    - 05 Tips and Trics
+    - 01 Cleaning & Reshaping it
+    - 02 Analyzing it
+    - 03 Predicting from it
+    - 04 Tips and Trics
 8. Test your understanding
 9. Additional Resources
 10. Feedback (arigatōgozaimashita) 😃
 
 
-## 1. Tutorial Structure and Questions we will work through
+## 1. Tutorial Structure
+
+We will follow the following schedule throughout the tutorial as best as possible.
+- 9:00 - 9:35 (JST) intro/setup
+- 9:35 - 9:40 (JST) short break
+- 9:40 - 10:45 (JST) instructions
+- 10:45 - 11:00 (JST) long break
+- 11:00 - 11:45 (JST) instructions
+- 11:45 - 11:50 (JST) short break
+- 11:50 - 12:30 (JST) instructions
+
 
 ## 2. Learning Outcomes
 
@@ -54,6 +63,6 @@ Have ever heard from experienced data professionals that only a small amount of 
 ## What this tutorial is not
 
 1. Although it is tailored towards beginner in this topic, this is not an introduction to Python. If you have never written a line of code, this is not the right tutorial for you, that's the one you we had yesterday :)
-2. This is not an Artificial Intelligence tutorial, that's the next one :)
+2. This is not an Artificial Intelligence tutorial, that one is running right now as well :)
 3. This is not a web scraping tutorial, although we will do some of that
-4. 
+4. This is not a tutorial covering every feature of Dask. We will mainly use the Dataframe API to clean, process, and analyse our data

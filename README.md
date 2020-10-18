@@ -1,6 +1,6 @@
 # SciPy Japan 2020 - (D)Ask Me Anything About Data Analysis at Scale?
 
-Welcome to (D)Ask Me Anything About Data Analytics at Scale, where we will be going over some techniques for preparing large datasets for analysis and, of course, analysing them as well (who wants to just clean data for about 4 hours anyways).
+Welcome to (D)Ask Me Anything About Data Analytics at Scale, where we will be going over some techniques for preparing large datasets for analysis and, of course, analysing them as well (who wants to just clean data for about 4 hours anyways). I mean, is not like data analytics/science projects often go by the 80-20 rule, 80% cleaning, prepering and engineering features, and 20% modeling, testing hypotheses and making predictions.
 
 Just for the fun of it, you can also refer to this tutorial by what is not commonly known as HPC, which is short for **High Performance Cleaning**.
 

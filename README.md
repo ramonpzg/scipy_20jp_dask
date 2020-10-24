@@ -1,4 +1,6 @@
-# SciPy Japan 2020 - (D)Ask Me Anything About Data Analysis at Scale?
+# (D)Ask Me Anything About Data Analysis at Scale?
+
+## SciPy Japan 2020
 
 Welcome to (D)Ask Me Anything About Data Analytics at Scale, where we will be going over some techniques for preparing large datasets for analysis and, of course, analysing them as well (who wants to just clean data for about 4 hours anyways). I mean, is not like data analytics/science projects often go by the 80-20 rule, 80% cleaning, prepering and engineering features, and 20% modeling, testing hypotheses and making predictions.
 
@@ -18,10 +20,10 @@ Unfortunately, and at the same time to your benefit, I was not allowed to use th
 6. Data
 7. Notebooks
     - 00 Getting the Data
-    - 01 Cleaning & Reshaping it
-    - 02 Analyzing it
-    - 03 Predicting from it
-    - 04 Tips and Trics
+    - 01 Deep Cleaning & Reshaping
+    - 02 Analysis
+    - 03 Building a Data Product
+    - 04 Advanced Analytics
 8. Test your understanding
 9. Acknowledgements
 10. Additional Resources
@@ -113,3 +115,21 @@ Great work! Now navigate to notebook 00 and open it.
 ## 6. Data
 
 We will be using Airbnb data collected by a scraping tool called Inside Airbnb
+
+
+
+## 7. Notebooks
+
+- 00 Getting the Data
+- 01 Deep Cleaning & Reshaping
+- 02 Analysis
+- 03 Building a Data Product
+- 04 Advanced Analytics
+
+## 8. Test your understanding
+
+## 9. Acknowledgements
+
+## 10. Additional Resources
+
+## 11. Feedback (arigatōgozaimashita) 😃

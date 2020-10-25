@@ -141,7 +141,7 @@ Great work! Now navigate to notebook 00 and open it.
 
 ## 6. Data
 
-![inside_airbnb](../images/inside_airbnb.png)
+![inside_airbnb](images/inside_airbnb.png)
 
 We will be using Airbnb data collected by a scraping tool called [Inside Airbnb](http://insideairbnb.com/about.html). The tool periodically scrapes data from Airbnb and publishes it for free on its website.
 

@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints
+01_clean_it-Copy1.ipynb
+02_reshape_it.ipynb
+00_stage_and_data.ipynb
+drop_dups_cols.png
+03_analyze_it.ipynb
+__pycache__
+dropping_cols.png
+our_cleaning_process2.svg
+04_make_a_product.ipynb
+dask-worker-space
+mydask.png
+our_cleaning_process3.svg

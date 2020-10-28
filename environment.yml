@@ -15,6 +15,7 @@ dependencies:
   - aws-c-event-stream=0.1.6
   - aws-checksums=0.1.9
   - aws-sdk-cpp=1.8.70
+  - bs4==0.0.1
   - backcall=0.2.0
   - blas=1.0
   - bleach=3.2.1

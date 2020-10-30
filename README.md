@@ -21,9 +21,9 @@ While I would have loved to use the data I've been working with for this tutoria
 7. Notebooks
     - 00 Setting the Stage and Getting the Data
     - 01 Deep Cleaning
-    - 02 Reshaping
-    - 03 Analysis
-    - 04 Building a Data Product
+    - ~~02 Reshaping~~
+    - ~~03 Analysis~~
+    - ~~04 Building a Data Product~~
 8. Acknowledgements
 9. Additional Resources
 10. Feedback (arigatōgozaimashita) 😃
@@ -165,7 +165,7 @@ The tutorial is organized in the following notebooks. Notebooks 00 through 02 fo
 
 ## 8. Acknowledgements
 
-The work in this tutorial was made possible because of the many talented people who have invested valuable time and effort in building these great tools for the Python ecosystem. So many thanks to pandas, NumPy, and Dask teams. Also, many thanks to Garret Blankenship. Without his help, lesson 00 would have taken the entire 4 hours of the tutorial.
+The work in this tutorial was made possible because of the many talented people who have invested valuable time and effort in building these great tools for the Python ecosystem. So many thanks to pandas, NumPy, and Dask teams. Also, many thanks to Garret Blankenship. Without his help, lesson 00 would have taken the entire 4 hours of the tutorial. Many thanks to Bianca Power, Maggie Liuzzi, Jairo Bilbao, Alex Holder, Michael Bamford, and Zeb Stevenson. Their comments and suggestions helped me polish the content of this tutorial significantly.
 
 ## 9. Additional Resources
 

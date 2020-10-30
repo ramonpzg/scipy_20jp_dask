@@ -1,5 +1,6 @@
 name: dask_tutorial_env
 channels:
+  - pyviz
   - conda-forge
   - defaults
 dependencies:
@@ -15,17 +16,16 @@ dependencies:
   - aws-c-event-stream=0.1.6
   - aws-checksums=0.1.9
   - aws-sdk-cpp=1.8.70
-  - bs4==0.0.1
   - backcall=0.2.0
   - blas=1.0
   - bleach=3.2.1
   - blosc=1.20.0
-  - bokeh=2.2.1
+  - bokeh=2.2.3
   - brotli=1.0.9
   - brotlipy=0.7.0
   - bzip2=1.0.8
   - c-ares=1.16.1
-  - ca-certificates=2020.6.20
+  - ca-certificates=2020.10.14
   - certifi=2020.6.20
   - cffi=1.14.3
   - chardet=3.0.4
@@ -47,6 +47,7 @@ dependencies:
   - h5py=2.10.0
   - hdf5=1.10.4
   - heapdict=1.0.1
+  - holoviews=1.13.5
   - idna=2.10
   - imageio=2.9.0
   - importlib-metadata=2.0.0
@@ -86,6 +87,7 @@ dependencies:
   - locket=0.2.0
   - lz4-c=1.9.2
   - lzo=2.10
+  - markdown=3.3.2
   - markupsafe=1.1.1
   - matplotlib=3.3.1
   - matplotlib-base=3.3.1
@@ -115,6 +117,8 @@ dependencies:
   - pandas=1.1.2
   - pandoc=2.10.1
   - pandocfilters=1.4.2
+  - panel=0.10.1
+  - param=1.10.0
   - parquet-cpp=1.5.1
   - partd=1.1.0
   - pexpect=4.8.0
@@ -126,6 +130,8 @@ dependencies:
   - psutil=5.7.2
   - pyarrow=2.0.0
   - pycparser=2.20
+  - pyct=0.4.8
+  - pyct-core=0.4.8
   - pygments=2.7.1
   - pyopenssl=19.1.0
   - pyparsing=2.4.7
@@ -136,6 +142,7 @@ dependencies:
   - python-dateutil=2.8.1
   - python_abi=3.8
   - pytz=2020.1
+  - pyviz_comms=0.7.6
   - pywavelets=1.1.1
   - pyyaml=5.3.1
   - re2=2020.10.01
@@ -155,6 +162,7 @@ dependencies:
   - tk=8.6.10
   - toolz=0.11.1
   - tornado=6.0.4
+  - tqdm=4.50.2
   - traitlets=5.0.4
   - typing_extensions=3.7.4.3
   - urllib3=1.25.10
@@ -169,6 +177,8 @@ dependencies:
   - zlib=1.2.11
   - zstd=1.4.5
   - pip:
+    - beautifulsoup4==4.9.3
+    - bs4==0.0.1
     - currencyconverter==0.14.3
     - defusedxml==0.6.0
     - entrypoints==0.3
@@ -178,6 +188,7 @@ dependencies:
     - ptyprocess==0.6.0
     - pyzmq==19.0.2
     - send2trash==1.5.0
+    - soupsieve==2.0.1
     - terminado==0.9.1
     - webencodings==0.5.1
     - wget==3.2
